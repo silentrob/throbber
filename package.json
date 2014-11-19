@@ -1,0 +1,14 @@
+{
+  "name": "throbber",
+  "version": "1.0.0",
+  "description": "Simple Console Throbber",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "Throbber"
+  ],
+  "author": "Rob Ellis",
+  "license": "ISC"
+}
